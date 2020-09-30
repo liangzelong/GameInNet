@@ -17,10 +17,10 @@ Embedding game in Neural Network
 
 # MUSHROOM WILL CATCH YOU LITTLE SLIME，RUN!!!!!!
 ## Target Game
-<p align="center"><img src="image/org.gif" width="480"\></p>
+<p align="center"><img src="org.gif" width="480"\></p>
 
 ## Generated Game
-<p align="center"><img src="image/gen.gif" width="480"\></p>
+<p align="center"><img src="gen.gif" width="480"\></p>
 
 ## Analysis
-<p align="center"><img src="image/data.gif" width="480"\></p>
+<p align="center"><img src="data.gif" width="480"\></p>
